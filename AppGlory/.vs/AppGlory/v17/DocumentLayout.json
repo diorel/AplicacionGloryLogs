@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Diorel\\Desktop\\ProyectoGlory\\AppGlory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0C007AE3-87DB-48D1-9AD1-734A680E3181}|AppGlory\\AppGlory.csproj|c:\\users\\diorel\\desktop\\proyectoglory\\appglory\\appglory\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C007AE3-87DB-48D1-9AD1-734A680E3181}|AppGlory\\AppGlory.csproj|solutionrelative:appglory\\commands\\relaycommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C007AE3-87DB-48D1-9AD1-734A680E3181}|AppGlory\\AppGlory.csproj|c:\\users\\diorel\\desktop\\proyectoglory\\appglory\\appglory\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C007AE3-87DB-48D1-9AD1-734A680E3181}|AppGlory\\AppGlory.csproj|solutionrelative:appglory\\viewmodels\\mainviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C007AE3-87DB-48D1-9AD1-734A680E3181}|AppGlory\\AppGlory.csproj|c:\\users\\diorel\\desktop\\proyectoglory\\appglory\\appglory\\models\\logrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C007AE3-87DB-48D1-9AD1-734A680E3181}|AppGlory\\AppGlory.csproj|solutionrelative:appglory\\models\\logrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C007AE3-87DB-48D1-9AD1-734A680E3181}|AppGlory\\AppGlory.csproj|c:\\users\\diorel\\desktop\\proyectoglory\\appglory\\appglory\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{0C007AE3-87DB-48D1-9AD1-734A680E3181}|AppGlory\\AppGlory.csproj|solutionrelative:appglory\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C007AE3-87DB-48D1-9AD1-734A680E3181}|AppGlory\\AppGlory.csproj|c:\\users\\diorel\\desktop\\proyectoglory\\appglory\\appglory\\services\\excelexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C007AE3-87DB-48D1-9AD1-734A680E3181}|AppGlory\\AppGlory.csproj|solutionrelative:appglory\\services\\excelexporter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C007AE3-87DB-48D1-9AD1-734A680E3181}|AppGlory\\AppGlory.csproj|c:\\users\\diorel\\desktop\\proyectoglory\\appglory\\appglory\\services\\logparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C007AE3-87DB-48D1-9AD1-734A680E3181}|AppGlory\\AppGlory.csproj|solutionrelative:appglory\\services\\logparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0C007AE3-87DB-48D1-9AD1-734A680E3181}|AppGlory\\AppGlory.csproj|c:\\users\\diorel\\desktop\\proyectoglory\\appglory\\appglory\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0C007AE3-87DB-48D1-9AD1-734A680E3181}|AppGlory\\AppGlory.csproj|solutionrelative:appglory\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 207,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Diorel\\Desktop\\ProyectoGlory\\AppGlory\\AppGlory\\ViewModels\\MainViewModel.cs",
+              "RelativeDocumentMoniker": "AppGlory\\ViewModels\\MainViewModel.cs",
+              "ToolTip": "C:\\Users\\Diorel\\Desktop\\ProyectoGlory\\AppGlory\\AppGlory\\ViewModels\\MainViewModel.cs",
+              "RelativeToolTip": "AppGlory\\ViewModels\\MainViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T02:46:57.651Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogParser.cs",
+              "DocumentMoniker": "C:\\Users\\Diorel\\Desktop\\ProyectoGlory\\AppGlory\\AppGlory\\Services\\LogParser.cs",
+              "RelativeDocumentMoniker": "AppGlory\\Services\\LogParser.cs",
+              "ToolTip": "C:\\Users\\Diorel\\Desktop\\ProyectoGlory\\AppGlory\\AppGlory\\Services\\LogParser.cs",
+              "RelativeToolTip": "AppGlory\\Services\\LogParser.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAGsAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T02:46:48.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExcelExporter.cs",
+              "DocumentMoniker": "C:\\Users\\Diorel\\Desktop\\ProyectoGlory\\AppGlory\\AppGlory\\Services\\ExcelExporter.cs",
+              "RelativeDocumentMoniker": "AppGlory\\Services\\ExcelExporter.cs",
+              "ToolTip": "C:\\Users\\Diorel\\Desktop\\ProyectoGlory\\AppGlory\\AppGlory\\Services\\ExcelExporter.cs",
+              "RelativeToolTip": "AppGlory\\Services\\ExcelExporter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T02:46:43.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogRecord.cs",
+              "DocumentMoniker": "C:\\Users\\Diorel\\Desktop\\ProyectoGlory\\AppGlory\\AppGlory\\Models\\LogRecord.cs",
+              "RelativeDocumentMoniker": "AppGlory\\Models\\LogRecord.cs",
+              "ToolTip": "C:\\Users\\Diorel\\Desktop\\ProyectoGlory\\AppGlory\\AppGlory\\Models\\LogRecord.cs",
+              "RelativeToolTip": "AppGlory\\Models\\LogRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T02:46:36.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RelayCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Diorel\\Desktop\\ProyectoGlory\\AppGlory\\AppGlory\\Commands\\RelayCommand.cs",
+              "RelativeDocumentMoniker": "AppGlory\\Commands\\RelayCommand.cs",
+              "ToolTip": "C:\\Users\\Diorel\\Desktop\\ProyectoGlory\\AppGlory\\AppGlory\\Commands\\RelayCommand.cs",
+              "RelativeToolTip": "AppGlory\\Commands\\RelayCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-20T02:46:30.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\Diorel\\Desktop\\ProyectoGlory\\AppGlory\\AppGlory\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AppGlory\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\Diorel\\Desktop\\ProyectoGlory\\AppGlory\\AppGlory\\MainWindow.xaml",
+              "RelativeToolTip": "AppGlory\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-19T03:24:36.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Diorel\\Desktop\\ProyectoGlory\\AppGlory\\AppGlory\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AppGlory\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\Diorel\\Desktop\\ProyectoGlory\\AppGlory\\AppGlory\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AppGlory\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-19T03:24:32.291Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
