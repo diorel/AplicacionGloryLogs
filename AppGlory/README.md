@@ -126,7 +126,3 @@ AppGlory/
     └── ViewModels/
         └── MainViewModel.cs
 ```
-
----
-
-*Desarrollado para Glory Global Solutions México*
